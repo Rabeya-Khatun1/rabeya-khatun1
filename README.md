@@ -182,7 +182,7 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 
 
 
-# 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats:</h3>
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -196,7 +196,17 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 </div>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Rabeya-Khatun1&icon=10&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">📬 Contact With Me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+
+
+
+
+  <span style="color:white; font-weight:bold; margin-bottom:2px margin-left:6px;">
+ Email:   prorabeya2008@gmail.com
+  </span>
+  <span style="color:white; font-weight:bold; margin-bottom:2px margin-left:6px;">
+ Contact/Whatsapp:   +880-1611096577
+  </span>
+</p>
