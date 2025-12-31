@@ -30,7 +30,7 @@
 </div>
 
   <p>
-    <a href="https://www.facebook.com/"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/rabeya123/"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white"></a>
     <a href="https://github.com/Rabeya-Khatun1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:prorabeya2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
@@ -64,7 +64,7 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 
 ## 🌐 Socials:
   <p>
-    <a href="https://www.facebook.com/"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/rabeya123/"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white"></a>
     <a href="https://x.com/home?lang=en"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://github.com/Rabeya-Khatun1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:prorabeya2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
