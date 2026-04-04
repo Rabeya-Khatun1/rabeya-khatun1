@@ -23,7 +23,7 @@
       <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" width="45" height="45" />
     </h1>
     <h3 style="font-size: 24px; text-shadow: 1px 1px 6px rgba(0,0,0,0.6);">
-      A MERN Stack and Junior Frontend Web Developer
+      A Junior Frontend Web Developer
     </h3>
 
   </div>
