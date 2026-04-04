@@ -1,6 +1,6 @@
 <div style="position: relative; width: 100%; max-width: 1200px; margin: auto;">
 
-  <img src="https://i.ibb.co/KxB32ZRn/pexels-harold-vasquez-853421-2653362.jpg" 
+  <img src="https://i.ibb.co.com/bRqQFBYj/Screenshot-2026-04-04-231437.png" 
        style="width:100%; height:600px; object-fit:cover; display:block;">
 
 
