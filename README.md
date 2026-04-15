@@ -1,6 +1,6 @@
 <div style="position: relative; width: 100%; max-width: 1200px; margin: auto;">
 
-  <img src="https://i.ibb.co/KxB32ZRn/pexels-harold-vasquez-853421-2653362.jpg" 
+  <img src="https://i.pinimg.com/736x/a0/61/81/a061816721aebd2be0fb2c3f2d3f3658.jpg" 
        style="width:100%; height:600px; object-fit:cover; display:block;">
 
 
@@ -30,7 +30,6 @@
 </div>
 
   <p>
-    <a href="https://www.linkedin.com/in/rabeya123/"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white"></a>
     <a href="https://github.com/Rabeya-Khatun1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:prorabeya2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
@@ -46,7 +45,7 @@ Currently, I am focused on learning advanced React and Next.js concepts.
  - I’m currently working on improving my skills in React and frontend development.
 <br> - I’m looking to collaborate on frontend web development projects.
 <br> - I’m looking for help with improving my frontend development skills and managing projects.
-<br> - All of my projects are available at https://jazzy-gumdrop-2c0f6b.netlify.app/
+<br> - All of my projects are available at https://rabeya-khatun.vercel.app/
 <br> - I regularly write articles on [frontend development, JavaScript, and web design.](frontend development, JavaScript, and web design.)
 <br> - Ask me about HTML, CSS, JavaScript, React, Express.js, MongoDB, Next-JS
 <br> - How to reach me prorabeya2008@gmail.com
@@ -60,18 +59,6 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 - Improving project management skills
 - Learning advanced React patterns
 
-
-
-## 🌐 Socials:
-  <p>
-    <a href="https://www.linkedin.com/in/rabeya123/"><img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white"></a>
-    <a href="https://x.com/home?lang=en"><img alt="Facebook" src="https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://github.com/Rabeya-Khatun1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="mailto:prorabeya2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   
-    
-  </p>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
@@ -80,7 +67,7 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Context API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-5A0EF8?style=plastic&logo=typescript&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)
 
 ---
@@ -96,7 +83,7 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 ### 🗄️ Database & Authentication
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Firebase Auth](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+![Mongoose](https://img.shields.io/badge/mongoose-a08021?style=plastic&logo=mongoose&logoColor=ffcd34)
 
 ---
 
@@ -123,67 +110,6 @@ Currently, I am focused on learning advanced React and Next.js concepts.
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 
-<h3 align="center">🌟 Highlighted Projects</h3>
-
-<table align="center">
-  <thead align="center">
-    <tr>
-      <th>🚀 Project</th>
-      <th>⭐ Stars</th>
-      <th>🍴 Forks</th>
-      <th>🐞 Issues</th>
-      <th>🔁 PRs</th>
-    </tr>
-  </thead>
-
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/Rabeya-Khatun1/e-tuition-bd-client">
-          <b>E-Tuition BD</b>
-        </a><br/>
-        <sub>React • Tailwind • Firebase</sub><br/>
-        <sub>Online tuition & course platform</sub>
-      </td>
-      <td><img src="https://img.shields.io/github/stars/Rabeya-Khatun1/e-tuition-bd-client?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/forks/Rabeya-Khatun1/e-tuition-bd-client?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/issues/Rabeya-Khatun1/e-tuition-bd-client?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Rabeya-Khatun1/e-tuition-bd-client?style=flat&color=0d1b2a"/></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Rabeya-Khatun1/english-janala">
-          <b>English Janala</b>
-        </a><br/>
-        <sub>HTML • CSS • JavaScript</sub><br/>
-        <sub>Interactive English learning website</sub>
-      </td>
-      <td><img src="https://img.shields.io/github/stars/Rabeya-Khatun1/english-janala?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/forks/Rabeya-Khatun1/english-janala?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/issues/Rabeya-Khatun1/english-janala?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Rabeya-Khatun1/english-janala?style=flat&color=0d1b2a"/></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Rabeya-Khatun1/movie-master-pro-client">
-          <b>Movie Master Pro</b>
-        </a><br/>
-        <sub>React • API • Tailwind CSS</sub><br/>
-        <sub>Movie browsing & details platform</sub>
-      </td>
-      <td><img src="https://img.shields.io/github/stars/Rabeya-Khatun1/movie-master-pro-client?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/forks/Rabeya-Khatun1/movie-master-pro-client?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/issues/Rabeya-Khatun1/movie-master-pro-client?style=flat&color=0d1b2a"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Rabeya-Khatun1/movie-master-pro-client?style=flat&color=0d1b2a"/></td>
-    </tr>
-
-  </tbody>
-</table>
-
-
-
-<h3 align="center">📊 GitHub Stats:</h3>
-
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rabeya-Khatun1&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1b2a&text_color=ffffff&title_color=00aaff" alt="" style="margin:5px;">
@@ -207,6 +133,6 @@ Currently, I am focused on learning advanced React and Next.js concepts.
  Email:   prorabeya2008@gmail.com
   </span>
   <span style="color:white; font-weight:bold; margin-bottom:2px margin-left:6px;">
- Contact/Whatsapp:   +880-1611096577
+ Contact/Whatsapp:   +880 1611-096577
   </span>
 </p>
